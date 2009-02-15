@@ -1,0 +1,15 @@
+Virtual Wireless
+Autor: Victor Feitoza
+
+Controle interno para ISP na qual utiliza dos seguintes recursos:
+PPPOE - Para controle dos usuários e utilização do mesmo
+FreeRadius - Autenticação e armazenamento dos históricos de conexão
+Mysql - Armazenamento dos dados referentes aos usuários e dados do FreeRadius
+PHP - Para contrução do frontend via navegador
+
+Passos futuros:
+Criação de uma versão off line para rodar localmente e com permissão de apenas
+leitura/escrita baseada em phpGtk ou Java.
+
+Victor Feitoza
+vfeitoza@virtualword.com.br
